@@ -1,0 +1,132 @@
+body{
+    font-family: arial;
+    font-size: 14px;
+}
+
+div>a{
+    padding top: 20 px;
+    padding-bottom:10 px;
+    text-align: center;
+    color:#A87847;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.container-fluid  { 
+    color: #A37B4A;
+  
+   
+}
+.nav-link > a {
+    color:#D7AF33;
+    
+}
+.navbar-brand {
+font-family: "Cinzel Decorative", cursive;
+padding: 20%;
+
+}
+
+
+ .btn{
+            background: color #323232;
+            color:#AF8C64;
+            border-color: #362A1E;       
+        }
+.welcome-cards-bg {
+    border: none;
+    color: #887763;
+    background-color: #2A2118;
+  }
+
+
+.card-body0{
+  background-color:#3B2B1C;
+  
+}
+.card-text-1{
+    text-align:left;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.container {
+    font-size: 18px;
+    text-align: center;
+    border-color:#3B2B1C;  
+}
+.card-title-2{
+    font-size: 30px; 
+}
+.emoji {
+    color:#A06837;
+    font-size: 35px;
+}
+.card-body{
+    background-color:#3B2B1C;
+    border-color:#3B2B1C;   
+}
+.card-text-2{
+    color: #A29B7E;
+}
+.info-cards-style{
+    background-color:#FFFFFF;
+    color: #969497;
+}
+.info-cards-bg  {
+    background-color:#FFFFFF; 
+    padding: 5px;
+    }
+.card-title-1 {
+        color: #e7c49c;
+        font-family: "Oregano", cursive;
+        font-size: 20px;
+      }
+.card-title-3 {
+    color: #421927; 
+    font-family: cursive; 
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.footer {
+    background-color: #F0EEE2;
+    color: 482e10;
+    padding: 20px 0;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px;
+    flex-basis: calc(33.33% - 20px); 
+  }
+  
+  .newsletter-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .newsletter-input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 70%;
+  }
+  
+  .newsletter-button {
+    background-color: #a16d31;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer; 
+}
